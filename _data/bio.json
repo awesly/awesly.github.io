@@ -86,7 +86,7 @@
   ],
   "volunteer": [
     {
-      "organization": "ASSOCIATION FOR COMPUTING MACHINERY at UH Manoa",
+      "organization": "Association for Computing Machinery at UH Manoa",
       "website": "https://acmmanoa.org/",
       "position": "Finance Coordinator",
       "startDate": "2024-08-01",
@@ -101,13 +101,13 @@
     {
       "title": "Dean's List",
       "date": "2023-Present",
-      "awarder": "University of Hawaii at Manoa"
+      "awarder": "University of Hawaii at Manoa",
       "summary": "Recognition of academic achivement by 3.5 GPA or higher."
     },
     {
       "title": "Merit Scholarship",
       "date": "2023-Present",
-      "awarder": "University of Hawaii at Manoa"
+      "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
