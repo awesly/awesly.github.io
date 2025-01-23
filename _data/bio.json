@@ -38,11 +38,11 @@
       "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
-        ICS 111 - Java
-        ICS 211 - Java
-        ICS 212 - C & C++
-        ICS 141 - Discrete Math
-        ICS 241 - Discrete Math
+        "ICS 111 - Java",
+        "ICS 211 - Java",
+        "ICS 212 - C & C++",
+        "ICS 141 - Discrete Math",
+        "ICS 241 - Discrete Math"
       ]
     }
   ],
