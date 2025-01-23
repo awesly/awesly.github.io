@@ -1,113 +1,120 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Alana Wesly",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/awesly.png",
+    "email": "awesly@hawaii.edu",
+    "phone": "808-3989257",
+    "website": "https://awesly.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a B.A in Dance in the Department of Theatre and Dance at the University of Hawaii. I expect to graduate in Spring, 2028.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "awesly", "url": "http://github.com/awesly" },
+      { "network": "linkedin", "username": "Alana Wesly", "url": "https://www.linkedin.com/in/alana-wesly-2640a1347/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Programming" },
+    { "name": "AI" },
+    { "name": "Dance" },
+    { "name": "Reading" },
+    { "name": "Journaling" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Unix", "Git/GitHub", "VSCode", "Eclipse" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science, Dance (expected Spring, 2028)",
+      "studyType": "B.S., B.A.",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
+        ICS 111 - Java
+        ICS 211 - Java
+        ICS 212 - C & C++
+        ICS 141 - Discrete Math
+        ICS 241 - Discrete Math
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Outreach College",
+      "position": "Student Interchanger",
+      "website": "https://www.outreach.hawaii.edu/",
+      "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Conversation partner for English learning exhange students",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Facilitated and encouraged foreign exchange students to speak conversational English by working through assignment questions in groups of two to five students",
+        "Evaluated session outcomes for students and myself after every session"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Hawaii Data Science Insitute",
+      "position": "Undergraduate Researcher",
+      "website": "https://datascience.hawaii.edu/",
+      "startDate": "2024-05-20",
+      "endDate": "2024-06-31",
+      "summary": "Researched with data visualization for the CYBERINFRASTRUCTURE TRAINING FOR UNDERGRADUATES IN SUMMER (CITRUS) program",
+      "highlights": [
+        "Completed a research project analyzing bird population change over time in Hawaii, using Python and the Pandas, NumPy, and Seaborn libraries to manipulate csv data and create data visualizations of birds sighted by year, species, and geographical origin",
+        "Developed data science skills in Python through the completion of DataCamp courses"
+      ]
+    },
+    {
+      "company": "Applied Research Laboratory at the University of Hawaii",
+      "position": "Computer Science Intern",
+      "website": "https://arl.hawaii.edu/",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Researched and tested Azure Document Intelligence Studio for the creation of an AI model to differentiate between Certified Unclassified Information (CUI) and non-CUI documents, presentations, flyers, and more",
+        "Assisted set up, use of, and clean up of research materials in the field at Sand Island"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ASSOCIATION FOR COMPUTING MACHINERY at UH Manoa",
+      "website": "https://acmmanoa.org/",
+      "position": "Finance Coordinator",
+      "startDate": "2024-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Assisted club members in receiving reimbursements for club purchases",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Managed monetary reimbursements of purchases for ACM clubs and events through communication with purchasers and reimbursers, and maintaining organized records"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Dean's List",
+      "date": "2023-Present",
+      "awarder": "University of Hawaii at Manoa"
+      "summary": "Recognition of academic achivement by 3.5 GPA or higher."
+    },
+    {
+      "title": "Merit Scholarship",
+      "date": "2023-Present",
+      "awarder": "University of Hawaii at Manoa"
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Valedictorian",
+      "date": "2023",
+      "awarder": "James B. Castle High School",
+      "summary": "State of Hawaii DOE acknowledges valedictorian status to graduating high school seniors who have at least a 4.0 weighted GPA, and have taken two or more college level (AP and or early college) classes."
     }
   ],
   "references": [
