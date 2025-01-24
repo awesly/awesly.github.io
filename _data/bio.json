@@ -34,7 +34,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "B.A. Dance (expected Spring, 2028)",
+      "area": "B.A. Dance (expected Spring 2028)",
       "studyType": "B.S. Computer Science",
       "startDate": "2023-09-01",
       "endDate": "Present",
@@ -64,7 +64,7 @@
       "company": "Hawaii Data Science Insitute",
       "position": "Undergraduate Researcher",
       "website": "https://datascience.hawaii.edu/",
-      "startDate": "Summer 2024",
+      "startDate": "2024",
       "summary": "Researched with data visualization for the Cyberinfrastructure Training For Undergraduates In Summer (CITRUS) program",
       "highlights": [
         "Completed a research project analyzing bird population change over time in Hawaii, using Python and the Pandas, NumPy, and Seaborn libraries to manipulate csv data and create data visualizations of birds sighted by year, species, and geographical origin",
@@ -75,7 +75,7 @@
       "company": "Applied Research Laboratory at the University of Hawaii",
       "position": "Computer Science Intern",
       "website": "https://arl.hawaii.edu/",
-      "startDate": "Summer 2023",
+      "startDate": "2023",
       "summary": "",
       "highlights": [
         "Researched and tested Azure Document Intelligence Studio for the creation of an AI model to differentiate between Certified Unclassified Information (CUI) and non-CUI documents, presentations, flyers, and more",
