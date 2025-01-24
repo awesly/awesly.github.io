@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/awesly.png",
     "email": "awesly@hawaii.edu",
-    "phone": "808-3989257",
+    "phone": "",
     "website": "https://awesly.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a B.A in Dance in the Department of Theatre and Dance at the University of Hawaii. I expect to graduate in Spring, 2028.",
     "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
@@ -34,8 +34,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science, Dance (expected Spring, 2028)",
-      "studyType": "B.S., B.A.",
+      "area": "B.S. Computer Science (expected Spring, 2028)",
+      "studyType": "B.A. Computer Science",
       "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
@@ -47,7 +47,7 @@
       ]
     }
   ],
-  "work": [
+  "experience": [
     {
       "company": "UH Manoa Outreach College",
       "position": "Student Interchanger",
@@ -66,7 +66,7 @@
       "website": "https://datascience.hawaii.edu/",
       "startDate": "2024-05-20",
       "endDate": "2024-06-31",
-      "summary": "Researched with data visualization for the CYBERINFRASTRUCTURE TRAINING FOR UNDERGRADUATES IN SUMMER (CITRUS) program",
+      "summary": "Researched with data visualization for the Cyberinfrastructure Training For Undergraduates In Summer (CITRUS) program",
       "highlights": [
         "Completed a research project analyzing bird population change over time in Hawaii, using Python and the Pandas, NumPy, and Seaborn libraries to manipulate csv data and create data visualizations of birds sighted by year, species, and geographical origin",
         "Developed data science skills in Python through the completion of DataCamp courses"
@@ -101,19 +101,19 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2023-Present",
+      "date": "2023 - Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Recognition of academic achivement by 3.5 GPA or higher."
     },
     {
       "title": "Merit Scholarship",
-      "date": "2023-Present",
+      "date": "2023  -Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
       "title": "Valedictorian",
-      "date": "2023",
+      "date": "Spring 2023",
       "awarder": "James B. Castle High School",
       "summary": "State of Hawaii DOE acknowledges valedictorian status to graduating high school seniors who have at least a 4.0 weighted GPA, and have taken two or more college level (AP and or early college) classes."
     }
