@@ -65,7 +65,6 @@
       "position": "Undergraduate Researcher",
       "website": "https://datascience.hawaii.edu/",
       "startDate": "2024-05-20",
-      "endDate": "2024-06-31",
       "summary": "Researched with data visualization for the Cyberinfrastructure Training For Undergraduates In Summer (CITRUS) program",
       "highlights": [
         "Completed a research project analyzing bird population change over time in Hawaii, using Python and the Pandas, NumPy, and Seaborn libraries to manipulate csv data and create data visualizations of birds sighted by year, species, and geographical origin",
@@ -77,7 +76,6 @@
       "position": "Computer Science Intern",
       "website": "https://arl.hawaii.edu/",
       "startDate": "2023-06-01",
-      "endDate": "2023-08-15",
       "summary": "",
       "highlights": [
         "Researched and tested Azure Document Intelligence Studio for the creation of an AI model to differentiate between Certified Unclassified Information (CUI) and non-CUI documents, presentations, flyers, and more",
@@ -107,7 +105,7 @@
     },
     {
       "title": "Merit Scholarship",
-      "date": "2023  -Present",
+      "date": "2023 - Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
