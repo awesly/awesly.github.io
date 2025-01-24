@@ -34,8 +34,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2028)",
-      "studyType": "B.S. Computer Science B.A. ",
+      "area": "B.A. Dance (expected Spring, 2028)",
+      "studyType": "B.S. Computer Science",
       "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
@@ -47,7 +47,7 @@
       ]
     }
   ],
-  "experience": [
+  "work": [
     {
       "company": "UH Manoa Outreach College",
       "position": "Student Interchanger",
