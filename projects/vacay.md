@@ -1,27 +1,26 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: https://datascience.hawaii.edu/wp-content/uploads/2023/12/Screen-Shot-2023-12-18-at-3.09.37-PM.png
+title: "Hawaii Birds Data Visualization"
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Python
+  - CSV files
+  - VSCode
+summary: "A research project for the Hawaii Data Science Institute's Cyberinfrastructure Training for Undergraduates in Summer program. Python and the Python libraries Pandas, NumPy, and Seaborn were used to manipulate csv data and create data visualizations of birds sighted in Hawaii by year, species, and geographical origin."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatascience.hawaii.edu%2F&psig=AOvVaw2i5HfyQrTmO86RQFS9mPpM&ust=1737929601315000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi097bykYsDFQAAAAAdAAAAABAE">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+As a part of the Hawaii Data Science Institute's Cyberinfrastructure Training for Undergraduates in Summer (CITRUS) program, I learned data visualization skills with Python and the Python libraries Pandas, NumPy, and Seaborn. My research project was studying bird populations in Hawaii, by using CSV data of birds sighted in transects by the Hawaii Forest Bird Survey, done in 1977 and 2015. The dataset was found on [US Geological Survey](https://www.usgs.gov/) website.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+VSCode was used to condense the data into a more managable format, with Python dataframes. Then, the Pandas and Seaborn libraries were used to visualize the data to compare the change in population of birds by the year, and their species or geographical origin. From this, conclusions could be made about the trajectory of bird populations in Hawaii, and more research questions could be formulated. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The full presentation can be viewed on [Canva](https://www.canva.com/design/DAGID3fbhmw/5fEp1DBwysevsWmc7BMkeA/edit?utm_content=DAGID3fbhmw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 
 
-Here is some example code to illustrate Simple Schema use:
+Here is some example code to illustrate the data processing and visualization that was done:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
