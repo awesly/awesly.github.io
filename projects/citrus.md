@@ -9,7 +9,7 @@ labels:
   - Python
   - CSV files
   - VSCode
-summary: "A research project for the Hawaii Data Science Institute's Cyberinfrastructure Training for Undergraduates in Summer program. Python and the Python libraries Pandas, NumPy, and Seaborn were used to manipulate csv data and create data visualizations of birds sighted in Hawaii by year, species, and geographical origin."
+summary: "A research project on Hawaii bird populations for the Hawaii Data Science Institute's CITRUS Program."
 ---
 
 <img class="img-fluid" src="../img/logo_5.png"> 
