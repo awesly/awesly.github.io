@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/CITRUS.PNG
 title: "Hawaii Bird Populations Data Visualization"
-date: 2024
+date: Summer 2024
 published: true
 labels:
   - Python
