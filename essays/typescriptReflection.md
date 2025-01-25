@@ -10,10 +10,7 @@ labels:
   - Typescript
   - Python
   - Java
-  - C
-  - C++
-  - Atheletic Software Engineering
-  - OPP vs. Procedural Programming
+  - C / C++
 ---
 
 Typescript is an essential tool for effective use of Javascript. As a sophomore in university for Computer Science, I have had a long journey to becoming the programmer I am today, which has informed my perspective on and use of Typescript. My current studies are also challenging me to grow as a programmer and professional, which is essential for my future career success.
