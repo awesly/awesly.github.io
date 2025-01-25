@@ -12,7 +12,7 @@ labels:
 summary: "A research project for the Hawaii Data Science Institute's Cyberinfrastructure Training for Undergraduates in Summer program. Python and the Python libraries Pandas, NumPy, and Seaborn were used to manipulate csv data and create data visualizations of birds sighted in Hawaii by year, species, and geographical origin."
 ---
 
-<img class="img-fluid" src="../img/logo_5.png"> <img class="img-fluid" src="../img/NSF.png">
+<img class="img-fluid" src="../img/logo_5.png"> 
 
 As a part of the Hawaii Data Science Institute's Cyberinfrastructure Training for Undergraduates in Summer (CITRUS) program, I learned data visualization skills with Python and the Python libraries Pandas, NumPy, and Seaborn. My research project was studying bird populations in Hawaii, by using CSV data of birds sighted in transects by the Hawaii Forest Bird Survey, done in 1977 and 2015. The dataset was found on [US Geological Survey](https://www.usgs.gov/) website.
 
