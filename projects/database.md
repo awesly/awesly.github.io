@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/clipart.avif
 title: "C / C++ Records Database Application"
-date: 2024
+date: Fall 2024
 published: true
 labels:
   - C
