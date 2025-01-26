@@ -11,7 +11,7 @@ labels:
 summary: "A mobile app made with Javascript on Code.org for Advanced Placement Computer Science Principles."
 ---
 
-<img class="img-fluid" src="../img/UI.png" style="width: 50%; height: auto;>
+<img class="img-fluid" src="../img/UI.png" style="width: 50%; height: auto;">
 
 In 2022, my first computer science final project was a mobile app for Advanced Placement Computer Science Principles. Instruction and assignments for the class were on the platform [Code.org](https://code.org/), and this final project was also created on it. While "block coding" was an option, it was not used for this project. I and my pair coding partner created the concept and wrote the code for this app, using a dataset provided by Code.org.
 
