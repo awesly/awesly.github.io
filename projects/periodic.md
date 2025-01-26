@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/code.png
+image: img/code.webp
 title: "Periodic Table Elements Lookup App"
 date: 2022
 published: true
