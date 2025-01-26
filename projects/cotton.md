@@ -1,59 +1,126 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
-published: false
+image: img/cotton/code.org.png
+title: "Periodic Table Elements Lookup App"
+date: 2022
+published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Javascript
+  - Code.org
+summary: "A mobile map made with Javascript for Advanced Placement Computer Science Principles."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/UI.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In 2022, my first computer science final project was a mobile app for Advanced Placement Computer Science Principles. Instruction and assignments for the class were on the platform [Code.org](https://code.org/), and this final project was also created on it. While "block coding" was an option, it was not used for this project. I and my pair coding partner created the concept and wrote the code for this app, using a dataset provided by Code.org.
 
-To give you a flavor of the game, here is an excerpt from one run:
+The app can be accessed on Code.org [here](https://studio.code.org/projects/applab/BHQeNHHwuIj5tdBeS1uaiGLy5FaYIGPh-Fsv3e6F5t0).
 
-<hr>
+Original code for the app:
+``` Javascript
+//Originally created: February 16 2022, updated April 20 2022
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+//The Purpose of the App:
+//The purpose of this app is to make it more convenient and efficient to find information on 
+// certain elements the user is looking for
+//(ie - period number, atomic number, symbol, and atomic weight)
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+//The lists below contain information from the data set,
+//"Periodic Table elements," containing the information stated above on line 7
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+var elementNames = getColumn("Periodic Table Elements", "Name");
+var periodNumbers = getColumn("Periodic Table Elements", "Period Number");
+var elementSymbols = getColumn("Periodic Table Elements", "Symbol");
+var atomicNumbers = getColumn("Periodic Table Elements", "Atomic Number");
+var atomicWeights = getColumn("Periodic Table Elements", "Atomic Weight");
 
-pickup candle
-- you are now carrying the candle -
+//The variables below contain the string/number that will be returned within each function 
+//except for updateScreen. It will hold the information of the selected element.
 
-pickup match
-- you are now carrying the match -
+var chosenPeriodNumber = 0;
+var chosenElementSymbol = "";
+var chosenAtomicNumber = 0;
+var chosenAtomicWeight = 0;
 
-light match candle
+//Below is a function called "periodNumber." It contains a
+//for loop that will go through the periodic table data set of all of the
+//element names. It will then use an if statement to find the element that
+//the user selects. Once it finds the element, it will use the index number
+//or i to return that element's period number using the period number list
 
-The candle is now lit. It illuminates everything in the room.
+function periodNumber(dropDown) {
+  for (var i = 0; i < elementNames.length; i++) {
+    var selectedName = elementNames[i];
+    if (dropDown == selectedName) {
+      chosenPeriodNumber = periodNumbers[i];
+    }
+  }
+  return chosenPeriodNumber;
+}
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+//Every function except for "updateScreen" should be a similar
+//concept and formating as the "periodNumber" function
 
-<hr>
+function symbol(dropDown) {
+  for (var i = 0; i < elementNames.length; i++) {
+    var selectedName = elementNames[i];
+    if (dropDown == selectedName) {
+      chosenElementSymbol = elementSymbols[i];
+    }
+  }
+  return chosenElementSymbol;
+}
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+function atomicNumber(dropDown) {
+  for (var i = 0; i < elementNames.length; i++) {
+    var selectedName = elementNames[i];
+    if (dropDown == selectedName) {
+      chosenAtomicNumber = atomicNumbers[i];
+    }
+  }
+  return chosenAtomicNumber;
+}
+
+function weight(dropDown) {
+  for (var i = 0; i < elementNames.length; i++) {
+    var selectedName = elementNames[i];
+    if (dropDown == selectedName) {
+      chosenAtomicWeight = atomicWeights[i];
+    }
+  }
+  return chosenAtomicWeight;
+}
+
+//Test 1:
+//Should return 20.1797
+//console.log(weight("Neon"));
+
+//Test 2:
+//Should return 63.546
+//console.log(weight("Copper"));
+
+//The onEvent for the dropdown that allows the user to pick an element 
+//is below (line 91-96), the function updateScreen is called 
+//because this is when the screen needs to be updated
+//depending on user input via the drop down
+
+onEvent("elementDropDown", "change", function( ) {
+  //chosenElementName variable holds the string in the dropdown
+  //(ie - the element the user selects)
+  var chosenElementName = getProperty("elementDropDown", "text");
+  updateScreen(chosenElementName);
+});
+
+//the function updateScreen is below which is where
+//the screen will update with the correct information about the element
+//by calling the previously made functions
+
+function updateScreen(name) {
+  setProperty("periodNumberText", "text", "Period Number: " + periodNumber(name));
+  setProperty("elementSymbolText", "text", "Element Symbol: " + symbol(name));
+  setProperty("atomicNumberText", "text", "Atomic Number: " + atomicNumber(name));
+  setProperty("atomicWeightText", "text", "Atomic Weight: " + weight(name));
+}
+
+```
