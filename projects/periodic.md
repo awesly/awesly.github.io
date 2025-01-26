@@ -8,7 +8,7 @@ published: true
 labels:
   - Javascript
   - Code.org
-summary: "A mobile map made with Javascript for Advanced Placement Computer Science Principles."
+summary: "A mobile map made with Javascript on Code.org for Advanced Placement Computer Science Principles."
 ---
 
 <img class="img-fluid" src="../img/UI.png">
