@@ -18,7 +18,7 @@ In 2022, my first computer science final project was a mobile app for Advanced P
 The app can be accessed on Code.org [here](https://studio.code.org/projects/applab/BHQeNHHwuIj5tdBeS1uaiGLy5FaYIGPh-Fsv3e6F5t0).
 
 Original code for the app:
-``` Javascript
+``` javascript
 //Originally created: February 16 2022, updated April 20 2022
 
 //The Purpose of the App:
@@ -122,5 +122,4 @@ function updateScreen(name) {
   setProperty("atomicNumberText", "text", "Atomic Number: " + atomicNumber(name));
   setProperty("atomicWeightText", "text", "Atomic Weight: " + weight(name));
 }
-
 ```
