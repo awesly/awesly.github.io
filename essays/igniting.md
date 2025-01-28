@@ -1,19 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Coding for Good"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2025-01-27
+published: true
 labels:
   - Software Engineering
+  - AI
   - Learning
----
+  - Aspirations
+---W
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+Computer science is on the brink of touching everything on Earth - not physcally, but through the long term effects of technology on humans, and through human activity, nature. While this is precarious, it is also promising. Computer science has the potential to change the world for the worse or for the better, and I mean to use it for the good. Throughout my experience as a student, intern, and undergraduate researcher in computer science, I have been a witness to the many negatives of technology in people's lives and for the environment, and how technology's impacts are as successful as how much their planning was thoughful. Of course, success is subjective. Currently in the Western and technologically advanced worlds, it is considered successful to gain control of wealth by privately controlling production and making money at the expense of others. What should actually be prioretized is the good of the health and well being of not just all people, but of the Earth in all its natural forms. 
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Negative implications of computer science technologies are common when aware of who is gaining and who - or what - is losing. Modern day technology is used for exploitation and exessive consumption, through prioretizing profits at the expense of individuals and the environment. For example, the current trend in computer science is AI. It is wildly successful for its creators, making the owners of the most popular AI tools into billionaries. Meanwhile, the use of the AI tools uses exorbitant amounts of energy and water, and can be created using data from external sources without crediting or compensating them at all. Despite this, computer science still can be used positively. Much of the government and important social systems are dependent on computers, and new code is being written every day with good intentions. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Often in the pursual of success in computer science, students and professionals focus on the effectiveness of their products without truly considering the real world context it should be designed for. Programmers may code something just to code something, without being driven by a real potential solution. In my experiences learning and practicing computer science, it has become apparent to me that my work must become worthwhile. The success I am striving for is not just through monetary wealth, but through being a part of the restoration of respect and care for nature, including people. As for a dream job, my aspirations lay somewhere in the cross section of computer science and environmentalism, though I would also be thrilled to serve the betterment of humanity itself by providing for people, through a local organization or even simply the Hawaii government. To do this, I must continue to keep an open mind and heart, learning not just a wide array of technical skills, but also learning what the world needs from computer science. 
