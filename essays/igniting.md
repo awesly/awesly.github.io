@@ -10,7 +10,7 @@ labels:
   - AI
   - Learning
   - Aspirations
----W
+---
 
 Computer science is on the brink of touching everything on Earth - not physcally, but through the long term effects of technology on humans, and through human activity, nature. While this is precarious, it is also promising. Computer science has the potential to change the world for the worse or for the better, and I mean to use it for the good. Throughout my experience as a student, intern, and undergraduate researcher in computer science, I have been a witness to the many negatives of technology in people's lives and for the environment, and how technology's impacts are as successful as how much their planning was thoughful. Of course, success is subjective. Currently in the Western and technologically advanced worlds, it is considered successful to gain control of wealth by privately controlling production and making money at the expense of others. What should actually be prioretized is the good of the health and well being of not just all people, but of the Earth in all its natural forms. 
 
