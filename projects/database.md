@@ -10,7 +10,7 @@ labels:
   - C++
   - Vim
   - Unix
-summary: "A functional database of bank records written in C, and later rewritten in C++, for ICS 212."
+summary: "A functional database of individuals records written in C, and later rewritten in C++, for ICS 212."
 ---
 The main project in ICS 212 at the [University of Hawaii at Manoa Information and Computer Science Dept](https://www.ics.hawaii.edu/) was creating a database of records of names, addresses, and account numbers. It features a text based user interface with options to add, delete, find, and print a record, and the backend also implements cleanup of the data and the ability to store the database in a file to be used to restore it the next time the program is run. The project was done in two main parts, which were the front end, the user interface, and the back end, the database itself. The records were each a struct in C and C++, and were made into a database as a linked list. Pointers were used in the C version, and passing by reference was also used in the C++ version. Implememting the C++ version neccessitated a full redesign of the structure and approach to the database, to make it Object Oriented instead of Procedural. 
 
