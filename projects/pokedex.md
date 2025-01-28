@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: img/poke2.png
-title: "Pokedex Application"
+image: img/pokedex2.png
+title: "C++ Pokedex Application"
 date: Fall 2024
 published: true
 labels:
   - C++
   - Vim
   - Unix
-summary: "A functional Pokedex written in C++ for ICS 212."
+summary: "A functional Pokedex to access a user's Pokemon and their information, written in C++ for ICS 212."
 ---
 
 Another project I completed on my own in ICS 212 at the [University of Hawaii at Manoa Information and Computer Science Dept](https://www.ics.hawaii.edu/) was creating a pokedex application. It was written in C++, using parent and child classes and a main function that accessed the Pokemon's information using maps and vectors. Pokemon is the parent class, and there are currently multiple child pokemon classes. Information about each Pokemon's name, type, and weight can be accessed with the function printData. The code could be expanded to be more robust, with more information on each type of Pokemon, and a detailed user interface to accesss Pokemon by various fields, for example all Pokemon of water type or Pokemon under a certain weight.
