@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokedex2.png
+image: img/pokedex2.PNG
 title: "C++ Pokedex Application"
 date: Fall 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A functional Pokedex to access a user's Pokemon and their information, written in C++ for ICS 212."
 ---
 
-Another project I completed on my own in ICS 212 at the [University of Hawaii at Manoa Information and Computer Science Dept](https://www.ics.hawaii.edu/) was creating a pokedex application. It was written in C++, using parent and child classes and a main function that accessed the Pokemon's information using maps and vectors. Pokemon is the parent class, and there are currently multiple child pokemon classes. Information about each Pokemon's name, type, and weight can be accessed with the function printData. The code could be expanded to be more robust, with more information on each type of Pokemon, and a detailed user interface to accesss Pokemon by various fields, for example all Pokemon of water type or Pokemon under a certain weight.
+Another project I completed on my own in ICS 212 at the [University of Hawaii at Manoa Information and Computer Science Dept](https://www.ics.hawaii.edu/) was creating a pokedex application. It was written in C++, using parent and child classes and a main function that accessed the Pokemon's information using maps and vectors. Pokemon is the parent class, and there are currently multiple child pokemon classes. Information about each Pokemon's name, type, and weight can be accessed with the function printData. The code could be improved by expanding it to be more robust, with more information on each type of Pokemon, and a detailed user interface to accesss Pokemon by various fields, for example all Pokemon of water type or Pokemon under a certain weight.
 
 Here is some code that illustrates an example of the parent Pokemon class header in C++:
 
