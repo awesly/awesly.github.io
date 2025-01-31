@@ -11,8 +11,10 @@ labels:
   - StackOverflow
 ---
 
-<img src="../img/stack-overflow-logo-png-transparent.png" alt="Stack Overflow Logo" width="200">
-<img src="../img/open-ai-logo.png" alt="OpenAI Logo" width="200">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="../img/stack-overflow-logo-png-transparent.png" alt="Stack Overflow Logo" width="200">
+    <img src="../img/open-ai-logo.png" alt="OpenAI Logo" width="200">
+</div>
 
 ## The lost art of posting good questions on forums
 
