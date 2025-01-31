@@ -11,9 +11,9 @@ labels:
   - StackOverflow
 ---
 
-<img src="img/stack-overflow-logo-png-transparent.png" alt="Stack Overflow Logo" width="200">
-<img src="img/open-ai-logo.png" alt="OpenAI Logo" width="200">
-<img src="img/Google_Gemini_logo.svg" alt="Google Gemini Logo" width="200">
+<img src=".../img/stack-overflow-logo-png-transparent.png" alt="Stack Overflow Logo" width="200">
+<img src=".../img/open-ai-logo.png" alt="OpenAI Logo" width="200">
+<img src=".../img/Google_Gemini_logo.svg" alt="Google Gemini Logo" width="200">
 
 ## The lost art of posting good questions on forums
 
@@ -21,7 +21,7 @@ The internet has continually grown and changed ever since its conception, and it
 
 ## Platforms may change, but good questions will always perservere
 
-This all might make one think that considering what is a good question for a forum is outdated, but in actuality, good questions are good no matter the platform, and so good forum questions from the 2000's and 2010's will also make good AI prompts for the 2020's. Reccomendations for a good forum post almost completely apply to AI prompts as well. Here are some examples.
+This all might make one think that considering what is a good question for a forum is outdated, but in actuality, good questions are good no matter the platform, and so good forum questions from the 2000's and 2010's will also make good AI prompts for the 2020's. Reccomendations for a good forum post almost completely apply to AI prompts as well. Here is an example.
 
 ## A good question
 
@@ -50,7 +50,6 @@ The terms "pass-by-value" and "pass-by-reference" are talking about variables. P
 By those definitions, Java is always pass-by-value. Unfortunately, when we deal with variables holding objects we are really dealing with object-handles called references which are passed-by-value as well. This terminology and semantics easily confuse many beginners.
 
 It goes like this:
-
 [continues with a code example]
 
 ```
@@ -60,24 +59,23 @@ The user received many answers to their question, over 7,000 upvotes, and curren
 While there may be official resources designated to answering this very same question that could have been read from a Google search before posting the question, it is still an effective question as many people struggle to learn from more formal or academic resources and would benefit from community explanations and discussion. This entire topic carries through to the current use of generative AI instead of Stack Overflow, as a clear and concise question that includes the context will prompt generative AI such as ChatGPT or Google's Gemini for a good response, and many users would prefer the formatting of these to official resources or websites.
 
 
+## A not so good question
 
-## The foolproof way to get ignored.
+While with current generative AI technologies even a subpar question may result in a useable answer, on past forum sites including Stack Overflow, a bad question could lead to no usable reccomendations or even disasterous effects. Posting with a bad attitude, missing context or unclear phrasing could cause other users to feel their time was wasted and give negative responses. Even when given the benefit of the doubt, if the responders don't have a clear idea of what the question is really for, they'll be unable to answer it well. Here is an example.
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+[Link](https://stackoverflow.com/questions/79401639/i-am-attempting-to-use-django-ninja-for-the-first-time-and-running-into-a-strang) to a not so good question on Stack Overflow.
+Here, a Stack Overflow user asked the question: 
 
 ```
-Q: Facebook Desktop Notifier
+Q: I am attempting to use Django Ninja for the first time and running into a strange error
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+With the text body:
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+I cant quite understand error I am receiving. I am simply trying to setup a model schema for my model. I am an old Django hand but ninja is new for me. What am I doing wrong here? Would love some help and feedback.
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+My model is this
+[continues with multiple segments of code]
 ```
+This question is not very effective. First, the title is not descriptive about that the actual error is, and in the description the user also didn't explain what they've tried to do to fix it so far and what they understand of the problem. Other users might see this post and either not be able to understand what the poster's problem is, or they might simply see the formatting and phrasing of it and give up while they're ahead. So far this post is only a day old, with 13 views, but not a single other user has responded or commented at all, and it is likely that they won't ever. 
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Generative AI assistance instead of other people on forums is faster and is seen by some as more effective for tailored answers to specific questions. However, even with AI promps a user must ask a good question. If important context is left out for example, ChatGPT often assumes quite a bit about the situation, which may be fine if it assumes correctly or if the user can tell that the response was not accurate to their problem and that they need to prompt with a better question. But if the user is truly lost or is even simply in the learning stage, the response to a bad question could lead them astray, wasting their time and effort and ultimately being worse than not asking the question at all.
