@@ -13,7 +13,6 @@ labels:
 
 <img src="../img/stack-overflow-logo-png-transparent.png" alt="Stack Overflow Logo" width="200">
 <img src="../img/open-ai-logo.png" alt="OpenAI Logo" width="200">
-<img src="../img/Google_Gemini_logo.svg" alt="Google Gemini Logo" width="200">
 
 ## The lost art of posting good questions on forums
 
