@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "From forum posts to AI prompts"
+title: "Crafting a Question: From Forum Posts to AI Prompts"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true
@@ -11,9 +11,9 @@ labels:
   - StackOverflow
 ---
 
-<img src=".../img/stack-overflow-logo-png-transparent.png" alt="Stack Overflow Logo" width="200">
-<img src=".../img/open-ai-logo.png" alt="OpenAI Logo" width="200">
-<img src=".../img/Google_Gemini_logo.svg" alt="Google Gemini Logo" width="200">
+<img src="../img/stack-overflow-logo-png-transparent.png" alt="Stack Overflow Logo" width="200">
+<img src="../img/open-ai-logo.png" alt="OpenAI Logo" width="200">
+<img src="../img/Google_Gemini_logo.svg" alt="Google Gemini Logo" width="200">
 
 ## The lost art of posting good questions on forums
 
