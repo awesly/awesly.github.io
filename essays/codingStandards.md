@@ -13,7 +13,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/coding.jpg">
 
-*Coding Standards: Guidelines for Good Code*
+## Coding Standards: Guidelines for Good Code
 
 Coding standards are thought of by many as trivial, nitpicky, and frivolous even. When thinking of coding standards, what comes to mind for many programmers is simply syntax. It is easy to forget, or to take for granted from the start, how important and outright essential clear communication and consistency can be - especially for programmers who may not have the best social and collaborative skills in their real life and school or work environment as well. However, coding standards are essential for code that is readable and maintainable collaboratively, for the creation of quality code in the first place, and even for learning the rules and use of a new programming language. 
 
