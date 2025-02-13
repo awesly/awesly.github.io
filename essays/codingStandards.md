@@ -11,7 +11,7 @@ labels:
   - VSCode
 ---
 
-<img width="100px" class="rounded" src="../img/coding.jpg">
+<img width="50%" class="rounded" src="../img/coding.jpg">
 
 ## Coding Standards: Guidelines for Good Code
 
