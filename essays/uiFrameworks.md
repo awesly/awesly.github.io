@@ -25,12 +25,12 @@ A natural question then, is why bother using a UI framework at all if generative
 
 A webpage I made with only raw HTML and CSS - a bit amateur:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="../img/surfing.png" width="1500">
+    <img src="../img/surfing.png" width="1150">
 </div>
 
 And a webpage I made with Bootstrap 5, to copy the professional design of a local website:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="../img/snow.png" alt="Stack Overflow Logo" width="1500">
+    <img src="../img/snow.png" alt="Stack Overflow Logo" width="1150">
 </div>
 
 
