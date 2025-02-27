@@ -24,17 +24,13 @@ The UI framework assigned for my university course is Bootstrap 5, so it is what
 A natural question then, is why bother using a UI framework at all if generative AI can be used either way, to get the desired result? The answer is, UI frameworks provide a cohesive, effortless look to them which is worth all the effort one uses to use them. For example, below two webpages I made can be seen: one made with just raw HTML and CSS, which is objectively clumsy, and one made with the use of the UI framework Bootstrap 5, which while also based off of an established design, is sleek and professional in comparison. 
 
 A webpage I made with only raw HTML and CSS - a bit amateur:
-[Link](file:///C:/Users/alana/OneDrive/Documents/ICS/ICS_314/historyofsurfing/index.html)
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="../img/surfing.png" width="200">
-    <img src="../img/open-ai-logo.png" alt="OpenAI Logo" width="200">
+    <img src="../img/surfing.png" width="2000">
 </div>
 
 A webpage I made with Bootstrap 5, to copy the professional design of a local website - 
-[Link](file:///C:/Users/alana/OneDrive/Documents/ICS/ICS_314/islandsnow/index.html)
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="../img/snow.png" alt="Stack Overflow Logo" width="200">
-    <img src="../img/open-ai-logo.png" alt="OpenAI Logo" width="200">
+    <img src="../img/snow.png" alt="Stack Overflow Logo" width="2000">
 </div>
 
 
