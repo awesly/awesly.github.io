@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Software Enineering Design patterns"
+title: "Patterns of Programmers"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-22
 published: true
