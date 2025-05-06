@@ -14,10 +14,11 @@ labels:
 
 ## AI in Education and Software Engineering
 
-text
+Generative AI is now a staple of many Gen Z and Gen Alpha students' educational experience. Tools like ChatGPT and Deepseek are used for everything from editing assignments, studying course content, and even full blown cheating in every kind of class and job. These tools can be prompted to produce written works, math and science steps and calculations, code, and even pictures. In software engineering, ChatGPT, Deepseek, and generative AI tools built into Interactive Development Environments like Github Copilot are used for the creation and debugging of code. Personally, I have used all three.
 
 ## AI in class
 
+In ICS 314 Software Enginerring, ChatGPT, Deepseek, and Github Copilot have been a huge help. In both Experience WODs done at home and in class practice and graded WODs, I have used ChatGPT and Deepseek to understand the concepts and code used for the assignment, with prompts such as "what are the functional programming methods in typescript and what is each used for?" I also prompt them to give other examples of, explain, and write code for me. For example, if there is code that is provided for an assignment I may give it to ChatGPT and promot it to explain the sections that I don't understand. I would often ask either ChatGPT or Deepseek for a specific section of code that I needed next, after giving it my current code, and give very direct instructions. This helped me learn how the code I needed to use in this class worked, but also kept me dependent on generative AI for creating it. Once I had seen enough examples I was able to understand and repocude code, but often still chose to prompt ChatGPT or DeepSeek to do it for me, because I found html and css to be monotonous. For debugging and quality assurance AI is my first step. Github Copilit was convenient to use because it is built in to VSCode, 
 
 ## AI's impact
 
