@@ -8,6 +8,9 @@ published: true
 labels:
   - AI
   - Software engineering
+  - ChatGPT
+  - DeepSeek 
+  - Github Copilot
 ---
 
 <img width="40%" class="rounded" src="../img/world.jpg">
