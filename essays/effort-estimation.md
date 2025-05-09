@@ -13,7 +13,7 @@ labels:
   - Effort
 ---
 
-<img width="40%" class="rounded" src="../img/bows.jpg">
+<img width="40%" class="rounded" src="../img/clock.jpg">
 
 ## How did you make your effort estimates?
 
