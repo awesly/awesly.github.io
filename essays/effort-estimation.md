@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
