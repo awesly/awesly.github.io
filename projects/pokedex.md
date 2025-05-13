@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pokedex2.PNG
 title: "C++ Pokedex Application"
-date: Fall 2024
+date: 2024, Fall
 published: true
 labels:
   - C++
