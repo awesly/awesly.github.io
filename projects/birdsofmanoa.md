@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/square2.PNG
 title: "Birds of Manoa Website"
-date: Spring 2025
+date: 2025, Spring
 published: true
 labels:
   - HTML / CSS
