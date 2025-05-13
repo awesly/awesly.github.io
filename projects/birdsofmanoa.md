@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/square.png
+image: img/square2.png
 title: "Birds of Manoa Website"
 date: Spring 2025
 published: true
