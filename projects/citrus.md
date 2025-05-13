@@ -14,7 +14,7 @@ summary: "A research project on Hawaii bird populations for the Hawaii Data Scie
 
 <img class="img-fluid" src="../img/logo_5.png"> 
 
-As a part of the Hawaii Data Science Institute's Cyberinfrastructure Training for Undergraduates in Summer (CITRUS) program, I learned data visualization skills with Python and the Python libraries Pandas, NumPy, and Seaborn. My research project was studying bird populations in Hawaii, by using CSV data of birds sighted in transects by the Hawaii Forest Bird Survey, done in 1977 and 2015. The dataset was found on [US Geological Survey](https://www.usgs.gov/) website.
+As a part of the Hawaii Data Science Institute's Cyberinfrastructure Training for Undergraduates in Summer (CITRUS) program, I learned data visualization skills with Python and the Python libraries Pandas, NumPy, and Seaborn. My research project was studying bird populations in Hawaii, by using CSV data of birds sighted in transects by the Hawaii Forest Bird Survey, done in 1977 and 2015. The dataset was found on [US Geological Survey](https://www.usgs.gov/) website.   
 
 VSCode was used to condense the data into a more managable format, with Python dataframes, and translate the abbreviated bird codes to their names, and add their geographical origin. Then, the Pandas and Seaborn libraries were used to visualize the data to compare the change in population of birds by the year, and their species or geographical origin. From this, conclusions could be made about the trajectory of bird populations in Hawaii, and more research questions could be formulated. 
 
