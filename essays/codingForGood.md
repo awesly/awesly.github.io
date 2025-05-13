@@ -4,7 +4,7 @@ type: essay
 title: "Coding for Good"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-27
-published: true
+published: false
 labels:
   - Software Engineering
   - AI
