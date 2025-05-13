@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CITRUS.PNG
+image: img/square.png
 title: "Birds of Manoa Website"
 date: Spring 2025
 published: true
@@ -20,4 +20,8 @@ The final project for ICS 314 software engineering was to create a Manoa-specifi
 
 To complete this project, everyone in my team took on roles we felt comfortable with. We had to program, coordinate the use of the database and deployment of the website, make the website visually appealing, and manage the project and document our progress. I took a mild leadership role in delegating tasks through out GitHub issues board, and checking in with my teammates on how we were each doing on our issues. I tackled an appropriate amount of the programming, by creating one of the pages and debugging others. In completing this project and the class it was for, I was reminded that I am not passionate about web development, and generally would rather someone else do it! The final project was also a good test of how much we each actually learned throughout the class, and where our weaknesses were. My weakness was with Vercel. However, I also appreciated my teammates and did enjoy the opportunity to get to know some of my classmates more. 
 
-<img class="img-fluid" src="../img/logo_5.png"> 
+Here are some pictures of the current state of the website:
+<img class="img-fluid" src="../img/homepg.png"> 
+<img class="img-fluid" src="../img/birdsofmanoa.png"> 
+<img class="img-fluid" src="../img/reportsighting.png"> 
+<img class="img-fluid" src="../img/allbirds.png"> 
