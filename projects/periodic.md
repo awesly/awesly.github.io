@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/code.webp
 title: "Periodic Table Elements Lookup App"
-date: 2022
+date: Spring 2022
 published: true
 labels:
   - Javascript
