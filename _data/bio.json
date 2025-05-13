@@ -15,6 +15,7 @@
   },
   "interests": [
     { "name": "Programming" },
+    { "name": "Databases" },
     { "name": "AI" },
     { "name": "Environmentalism"},
     { "name": "Dance" },
@@ -24,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "HTML", "CSS", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -39,11 +40,11 @@
       "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
-        "ICS 111 - Java",
-        "ICS 211 - Java",
+        "ICS 141 & 241 - Discrete Math",
+        "MATH 241 & 242 - Calculus",
+        "ICS 111 & 211 - Java",
         "ICS 212 - C & C++",
-        "ICS 141 - Discrete Math",
-        "ICS 241 - Discrete Math"
+        "ICS 314 - Software Engineering",
       ]
     }
   ],
