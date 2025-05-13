@@ -4,7 +4,7 @@ type: essay
 title: "Typescript: A Personal Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-23
-published: true
+published: false
 labels:
   - Javascript
   - Typescript
